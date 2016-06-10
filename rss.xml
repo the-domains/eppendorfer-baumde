@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Eppendorfer-Baum.de]]></title>
         <description><![CDATA[Eppendorfer-Baum.de]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eppendorfer-baumde/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 15:43:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 15:43:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eppendorfer-baumde/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Filialseite Eppendorf (Kurt Heymann Buchzentrum GmbH)]]></title>
+            <description><![CDATA[<article><h1>Filialseite Eppendorf (Kurt Heymann Buchzentrum GmbH)</h1><p>Home Filialseite Eppendorf Schön, Sie zu sehen. In unserer Buchhandlung in Hamburg-Eppendorf bieten wir ein Vollsortiment mit mehreren zehntausend Büchern und Medien in großzügiger Atmosphäre - traditioneller Buchhandel auf der Höhe der Zeit. Katja Nowack sorgt mit ihren Mitarbeitern für den bekannten Heymann-Service rund ums Buch und gibt Ihnen gerne eine persönliche Leseempfehlung oder einen Geschenktipp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/588133a8e62f1c18c273e17acdb1691d5e80fb11.jpg"></article>]]></description>
+            <link>https://www.heymann-buecher.de/shop/action/mymagazine/93349/filialseite.html?aUrl=90000595</link>
+            <guid isPermaLink="false">00cd61a0-da26-47a8-8137-68b3fb8b3680</guid>
+            <pubDate>Fri, 10 Jun 2016 15:43:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Startseite]]></title>
             <description><![CDATA[<article><h1>Startseite</h1><p>LINDNER Esskultur - Feinkost ist ein Ausdruck höchster Qualität und Sorgfalt. Seit der Gründung von "Butter LINDNER" ist der Genuss bei uns tief verwurzelt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16ccafcb0a89f37c6eeed370f73c8c8352bc1627.jpg"></article>]]></description>
